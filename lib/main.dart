@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
       } else if (imc >= 29.9 && imc < 34.9) {
         _infoText = "Obesidade Mórbida I (${imc.toStringAsPrecision(4)})";
       } else if (imc >= 34.9 && imc < 39.9) {
-        _infoText = "Obesidade Mórbida II (${imc.toStringAsPrecision(4)})";
+        _infoText = "Obesidade Gordaaao II (${imc.toStringAsPrecision(4)})";
       } else if (imc >= 40) {
         _infoText = "Obesidade Mórbida III (${imc.toStringAsPrecision(4)})";
       }

@@ -1,6 +1,6 @@
 # imc
 
-A new Flutter project.
+Um novo projeto do flutter
 
 ## Getting Started
 
